@@ -1,5 +1,5 @@
-10.101.1.203
-10.101.1.36
-10.101.1.196
-10.101.1.108
+10.101.1.203 apache2_package=httpd php_package=php
+10.101.1.36 apache2_package=httpd php_package=php
+10.101.1.196 apache2_package=httpd php_package=php
+10.101.1.108 apache2_package=apache2 php_package=libapache2-mod-ph
 
