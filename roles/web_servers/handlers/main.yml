@@ -1,4 +1,4 @@
-- name: restart_apache
+- name: Restart_apache
   tags: apache,centos,httpd
   service:
     name: "{{ apache_service }}"
